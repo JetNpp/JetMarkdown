@@ -1,4 +1,5 @@
 ﻿# NppMarkdown
+[Author's Homepage](https://github.com/gclxry/NppMarkdown)
 
 ## download
 
