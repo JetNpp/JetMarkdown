@@ -8,6 +8,10 @@
 ## change log
 
 ### 2.15.2.303
+#### 2.15.2.303 2018-03-13
+- +. fix issue : crashed at the beginning under x64 environment. I didn't test the plugin under x64 environment.
+
+### 2.15.2.303
 #### 2.15.2.303 2018-02-07
 - +. change compiler toolset to v120_xp
 
