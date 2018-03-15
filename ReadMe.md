@@ -1,11 +1,17 @@
 ﻿# NppMarkdown
-[Author's Homepage](https://github.com/gclxry/NppMarkdown)
+Here only provided precomiled dll. [Original Author's Homepage](https://github.com/gclxry/NppMarkdown)
 
 ## download
 
 [Release](https://github.com/JetNpp/NppMarkdown/tree/master/bin "Release")
 
+## install
+- install [Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/en-gb/download/details.aspx?id=40784)
+- copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\ for x86 version).
+
 ## change log
+### 2.15.2.303 2018-03-15
+- +. install instruction.
 
 ### 2.15.2.303
 #### 2.15.2.303 2018-03-13
