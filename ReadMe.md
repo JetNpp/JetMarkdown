@@ -1,15 +1,19 @@
-﻿# NppMarkdown
+﻿# JetMarkdown
 Here only provided precomiled dll. [Original Author's Homepage](https://github.com/gclxry/NppMarkdown)
 
 ## download
 
-[Release](https://github.com/JetNpp/NppMarkdown/tree/master/bin "Release")
+[Release](https://github.com/JetNpp/JetMarkdown/tree/master/bin "Release")
 
 ## install
-- install [Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/en-gb/download/details.aspx?id=40784)
-- copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\ for x86 version).
+- install [Visual C++ Redistributable Packages for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+- copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
 
 ## change log
+### 2.15.2.304 2019-05-26
+- +. change compiler toolset to v140_xp (visual studio 2015)
+- +. change markdown parser engine
+
 ### 2.15.2.303 2018-03-15
 - +. install instruction.
 
@@ -28,5 +32,5 @@ Here only provided precomiled dll. [Original Author's Homepage](https://github.c
 |env   | ver|
 | - | - |
 |__os__|windows 7 x64|
-|__compiler__|MSVC 2013 UPDATE5|
-|__toolset__|v120_xp|
+|__compiler__|MSVC 2015 UPDATE3|
+|__toolset__|v140_xp|
