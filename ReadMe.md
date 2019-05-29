@@ -10,9 +10,11 @@ Here only provided precomiled dll. [Original Author's Homepage](https://github.c
 - copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
 
 ## change log
+### 2.15.2.304 2019-05-29
+- +. minor fix
+
 ### 2.15.2.304 2019-05-26
 - +. change compiler toolset to v140_xp (visual studio 2015)
-- +. change markdown parser engine
 
 ### 2.15.2.303 2018-03-15
 - +. install instruction.
