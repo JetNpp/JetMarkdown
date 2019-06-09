@@ -10,6 +10,9 @@ Here only provided precomiled dll. [Original Author's Homepage](https://github.c
 - copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
 
 ## change log
+### 2.15.2.304 2019-06-09
+- +. add 'clear' button.
+
 ### 2.15.2.304 2019-05-29
 - +. minor fix
 
