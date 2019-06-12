@@ -12,6 +12,7 @@ Here only provided precomiled dll. [Original Author's Homepage](https://github.c
 ## change log
 ### 2.15.2.304 2019-06-09
 - +. add 'clear' button.
+- +. support more elements, such as table.
 
 ### 2.15.2.304 2019-05-29
 - +. minor fix
