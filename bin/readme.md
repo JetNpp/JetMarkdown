@@ -1,6 +1,6 @@
-# Release 2019-10-06 21:01
+# Release 2020-04-18
 |name|desc|
 |-|-|
-|JetMarkdown.Ver|2.15.2.304|
+|JetMarkdown.Ver|2.15.2.305|
 |JetMarkdown.dll|windows,x86|
 |JetMarkdown(x64).dll|windows,x64|

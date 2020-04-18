@@ -1,24 +1,24 @@
 ﻿# JetMarkdown
-Native markdown plugin/viewer for notepad++ (NppMarkdown-JetNpp-Mod). [Original Author's Homepage](https://github.com/gclxry/NppMarkdown)
+原生 Notepad++ Markdown 插件（NppMarkdown-JetNpp-Mod）。 [原作者官网。](https://github.com/gclxry/NppMarkdown)
 
-## download
+## 下载
 
-[Release](https://github.com/JetNpp/JetMarkdown/tree/master/bin "Release")
+[下载](https://github.com/JetNpp/JetMarkdown/tree/master/bin "Release")
 
-## install
-- install [Visual C++ Redistributable Packages for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
-- copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
+## 安装
+- 先安装 [Visual C++ Redistributable Packages for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+- 拷贝dll文件到notepad++ 插件目录下。 (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
 
-## change log
+## 修改日志
 ### 2.15.2.305 2020-04-18
-- +. support relative paths, such as image resouce.
+- +. 支持相对路径，比如图像资源。
 
 ### 2.15.2.304 2019-10-06
 - +. update markdown parser.
 
 ### 2.15.2.304 2019-06-09
 - +. add 'clear' button.
-- +. support more elements, such as table.
+- +. 支持表格语法.
 
 ### 2.15.2.304 2019-05-29
 - +. minor fix
