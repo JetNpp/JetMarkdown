@@ -11,7 +11,7 @@ Native markdown plugin/viewer for notepad++ (NppMarkdown-JetNpp-Mod). [Original 
 
 ## change log
 ### 2.15.2.305 2020-04-18
-- +. support relative paths, such as image resouce.
+- +. support relative paths, such as image resource.
 
 ### 2.15.2.304 2019-10-06
 - +. update markdown parser.
