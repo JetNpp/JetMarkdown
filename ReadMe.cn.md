@@ -1,5 +1,7 @@
 ﻿# JetMarkdown
-原生 Notepad++ Markdown 插件（NppMarkdown-JetNpp-Mod）。 [原作者官网。](https://github.com/gclxry/NppMarkdown)
+原生 Notepad++ Markdown/CSV/html 插件（NppMarkdown-JetNpp-Mod），支持 markdown/csv/html 文件预览查看。
+
+[原作者官网。](https://github.com/gclxry/NppMarkdown)
 
 ## 下载
 
@@ -10,6 +12,10 @@
 - 拷贝dll文件到notepad++ 插件目录下。 (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
 
 ## 修改日志
+### 2.15.2.306 2020-05-21
+- +. 支持预览csv文件
+- +. 支持预览html文件
+
 ### 2.15.2.305 2020-04-18
 - +. 支持相对路径，比如图像资源。
 

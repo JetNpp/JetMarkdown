@@ -1,5 +1,5 @@
 ﻿# JetMarkdown
-Native markdown plugin/viewer for notepad++ (NppMarkdown-JetNpp-Mod). [Original Author's Homepage](https://github.com/gclxry/NppMarkdown)
+Native markdown/CSV/html preview/viewer plugin for notepad++ (NppMarkdown-JetNpp-Mod). [Original Author's Homepage](https://github.com/gclxry/NppMarkdown)
 
 ## download
 
@@ -10,6 +10,10 @@ Native markdown plugin/viewer for notepad++ (NppMarkdown-JetNpp-Mod). [Original 
 - copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
 
 ## change log
+### 2.15.2.306 2020-05-21
+- +. support csv preview
+- +. support html preview
+
 ### 2.15.2.305 2020-04-18
 - +. support relative paths, such as image resource.
 
