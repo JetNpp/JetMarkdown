@@ -12,6 +12,10 @@
 - 拷贝dll文件到notepad++ 插件目录下。 (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
 
 ## 修改日志
+## change log
+### 2.15.2.306 2021-10-09
+- +. update markdown parser.
+
 ### 2.15.2.306 2020-05-21
 - +. 支持预览csv文件
 - +. 支持预览html文件
