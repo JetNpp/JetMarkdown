@@ -10,6 +10,9 @@ Native markdown/CSV/html preview/viewer plugin for notepad++ (NppMarkdown-JetNpp
 - copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
 
 ## change log
+### 2.15.2.306 2022-04-16
+- +. update md parser
+
 ### 2.15.2.306 2021-10-09
 - +. update markdown parser.
 
