@@ -8,11 +8,15 @@
 [下载](https://github.com/JetNpp/JetMarkdown/tree/master/bin "Release")
 
 ## 安装
-- 先安装 [Visual C++ Redistributable Packages for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+- 先安装 Visual C++ Redistributable Packages for Visual Studio 2019
 - 拷贝dll文件到notepad++ 插件目录下。 (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
 
 ## 修改日志
 ## change log
+
+### 2.15.2.307 2023-06-07
+- +. update md parser
+
 ### 2.15.2.306 2022-04-16
 - +. update md parser
 
@@ -57,5 +61,5 @@
 |env   | ver|
 | - | - |
 |__os__|windows 7 x64|
-|__compiler__|MSVC 2015 UPDATE3|
-|__toolset__|v140_xp|
+|__compiler__|MSVC 2019|
+|__toolset__|v142|

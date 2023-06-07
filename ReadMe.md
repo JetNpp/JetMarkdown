@@ -6,10 +6,13 @@ Native markdown/CSV/html preview/viewer plugin for notepad++ (NppMarkdown-JetNpp
 [Release](https://github.com/JetNpp/JetMarkdown/tree/master/bin "Release")
 
 ## install
-- install [Visual C++ Redistributable Packages for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)
+- install Visual C++ Redistributable Packages for Visual Studio 2019
 - copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\JetMarkdown for x86 version).
 
 ## change log
+### 2.15.2.307 2023-06-07
+- +. update md parser
+
 ### 2.15.2.306 2022-04-16
 - +. update md parser
 
@@ -54,5 +57,5 @@ Native markdown/CSV/html preview/viewer plugin for notepad++ (NppMarkdown-JetNpp
 |env   | ver|
 | - | - |
 |__os__|windows 7 x64|
-|__compiler__|MSVC 2015 UPDATE3|
-|__toolset__|v140_xp|
+|__compiler__|MSVC 2019|
+|__toolset__|v142|
