@@ -11,7 +11,7 @@ Native markdown/CSV/html preview/viewer plugin for notepad++ (NppMarkdown-JetNpp
 
 ## change log
 ### 2.15.2.307 2024-11-08
-- +. md talbe : border style
+- +. md table : border style
 
 ### 2.15.2.307 2024-01-04
 - +. fix html parser crash
