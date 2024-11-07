@@ -1,4 +1,4 @@
-# Release 2023-06-07
+# Release 2024-11-08
 |name|desc|
 |-|-|
 |JetMarkdown.Ver|2.15.2.307|
